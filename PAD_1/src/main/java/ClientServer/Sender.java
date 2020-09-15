@@ -3,8 +3,8 @@ package ClientServer;
 import org.w3c.dom.DOMImplementation;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
-import xPlatform.IOperation;
-import xPlatform.TransportService;
+import OtherClasses.IOperation;
+import OtherClasses.TransportService;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;

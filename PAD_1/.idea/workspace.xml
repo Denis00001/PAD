@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa5015e7-873b-417d-95af-67037926b4a0" name="Default Changelist" comment="" />
+    <list default="true" id="aa5015e7-873b-417d-95af-67037926b4a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OtherClasses/BrokerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OtherClasses/DataParserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OtherClasses/IOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OtherClasses/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OtherClasses/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OtherClasses/ReceiverMessageReaderThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClientServer/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientServer/Sender.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +20,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -27,6 +41,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hQJAV0TfmgtLICaCV39lI700SC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +51,62 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Sender">
+    <configuration name="Broker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientServer.Broker" />
+      <module name="PAD_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClientServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Receiver" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientServer.Receiver" />
+      <module name="PAD_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClientServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sender" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientServer.Sender" />
+      <module name="PAD_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClientServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Broker" />
+      <item itemvalue="Application.Receiver" />
+      <item itemvalue="Application.Sender" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sender" />
+        <item itemvalue="Application.Receiver" />
+        <item itemvalue="Application.Broker" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,22 +122,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="169" key="GridCell.Tab.0.bottom" timestamp="1599938281394">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599997177072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599938281394" />
-    <state width="1322" height="169" key="GridCell.Tab.0.center" timestamp="1599938281394">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1599997177072" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1599996408026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599938281394" />
-    <state width="1322" height="169" key="GridCell.Tab.0.left" timestamp="1599938281394">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599996408026" />
+    <state width="1322" height="169" key="GridCell.Tab.0.bottom" timestamp="1599998667346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599938281394" />
-    <state width="1322" height="169" key="GridCell.Tab.0.right" timestamp="1599938281394">
+    <state width="1322" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599998667346" />
+    <state width="1322" height="169" key="GridCell.Tab.0.center" timestamp="1599998667346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599938281394" />
+    <state width="1322" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599998667346" />
+    <state width="1322" height="169" key="GridCell.Tab.0.left" timestamp="1599998667346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599998667346" />
+    <state width="1322" height="169" key="GridCell.Tab.0.right" timestamp="1599998667346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599998667346" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1599996783915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599996783915" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1599996098852">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599996098852" />
+    <state x="380" y="96" width="606" height="536" key="find.popup" timestamp="1599998609992">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="96" width="606" height="536" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1599998609992" />
     <state x="65" y="58" key="new project wizard" timestamp="1599937711610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
