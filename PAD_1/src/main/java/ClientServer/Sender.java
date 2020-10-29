@@ -28,7 +28,7 @@ public class Sender {
         BufferedReader buffRead = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("SENDER OPTIONS:");
         try {
-            s = new Socket("localhost", 1488);
+            s = new Socket("localhost", 8383);
             System.out.println("--Connection succeeded--");
             System.out.println("--Input the receivers--");
             while(!(receiver=buffRead.readLine()).equals(".")){

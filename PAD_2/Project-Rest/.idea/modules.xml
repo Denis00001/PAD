@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project-Rest.iml" filepath="$PROJECT_DIR$/Project-Rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-data-service/app-data-service.iml" filepath="$PROJECT_DIR$/app-data-service/app-data-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-proxy/app-proxy.iml" filepath="$PROJECT_DIR$/app-proxy/app-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-web-service/app-web-service.iml" filepath="$PROJECT_DIR$/app-web-service/app-web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+    </modules>
+  </component>
+</project>

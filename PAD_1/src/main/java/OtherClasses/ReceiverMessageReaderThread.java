@@ -9,7 +9,7 @@ public class ReceiverMessageReaderThread implements Runnable{
         String messageFromServer;   //Message from server
         while(!(messageFromServer = transport.readAsync()).equals("disconnect"))
             System.out.println(messageFromServer); // displaying at DOS prompt
-        System.out.println("Disconnected from broker");
+            System.out.println("Disconnected from broker");
     }
 
 }

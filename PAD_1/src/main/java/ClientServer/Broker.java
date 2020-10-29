@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class Broker {
     public static void main(String[] args) throws IOException {
-        System.out.println("BROKER OPTIONS:");
+        System.out.println("Broker is starting...");
         IOperation broker=new BrokerService();
         String msg;
         while(true)

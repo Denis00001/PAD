@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d995cea1-4676-43d7-b005-7e8b2cc9f01a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jKqhoi1WlVAhLPwHs7gr8mGWCJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="xpath.settings" />
+  </component>
+  <component name="RunManager" selected="Application.AppProxy">
+    <configuration name="App1Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corina.project.rest.ws.spring.boot.App1Application" />
+      <module name="app-web-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corina.project.rest.ws.spring.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corina.project.rest.ws.spring.boot.AppProxy" />
+      <module name="app-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corina.project.rest.ws.spring.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectRestEurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corina.ProjectRestEureka.ProjectRestEurekaApplication" />
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.corina.ProjectRestEureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppProxy" />
+        <item itemvalue="Application.ProjectRestEurekaApplication" />
+        <item itemvalue="Application.App1Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d995cea1-4676-43d7-b005-7e8b2cc9f01a" name="Default Changelist" comment="" />
+      <created>1603563282623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603563282623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1306" height="151" key="GridCell.Tab.0.bottom" timestamp="1603569656753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603569656753" />
+    <state width="1306" height="151" key="GridCell.Tab.0.center" timestamp="1603569656753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603569656753" />
+    <state width="1306" height="151" key="GridCell.Tab.0.left" timestamp="1603569656753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603569656753" />
+    <state width="1306" height="151" key="GridCell.Tab.0.right" timestamp="1603569656753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603569656753" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1603970240056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603970240056" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603568730110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603568730110" />
+  </component>
+</project>

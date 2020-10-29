@@ -18,7 +18,7 @@ public class Receiver {
 
         BufferedReader buffRead = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("RECEIVER OPTIONS:");
-        s = new Socket("localhost", 1488);
+        s = new Socket("localhost", 8383);
         System.out.println("--Input ur name--");
         name=buffRead.readLine();
         IOperation receiver=new TransportService(s);
@@ -48,7 +48,7 @@ public class Receiver {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-                s = new Socket("localhost", 1488);
+                s = new Socket("localhost", 8383);
                 receiver=new TransportService(s);
                 receiver.writeAsync(command+" "+name+"\n");
                 break;

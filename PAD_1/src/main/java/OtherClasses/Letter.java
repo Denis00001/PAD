@@ -1,6 +1,5 @@
 package OtherClasses;
 
-import java.net.Socket;
 
 public class Letter {
     private String name;
